@@ -1,0 +1,7 @@
+com/gedemega/androidapp/BuildConfig.java
+ com.gedemega.androidapp.BuildConfig
+com/gedemega/androidapp/HomeActivity.java
+ com.gedemega.androidapp.HomeActivity
+com/gedemega/androidapp/MainActivity.java
+ com.gedemega.androidapp.MainActivity
+ com.gedemega.androidapp.MainActivity$1
